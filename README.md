@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Heinrich Venter and im a Backend Team Lead & Developer @ Osiris Trading and from South Africa
+- 👋 Hi, I’m Heinrich Venter and im the Backend Team Lead & Developer @ Osiris Trading and from South Africa
 - 👀 I’m interested in .NET Core, NodeJs, Angular, NoSQL, Docker/Kubernetes, ELK
 - 🌱 I’m currently learning how to develop and setting up Kubernetes on prem.
 - 💞️ I’m looking to collaborate on ...
