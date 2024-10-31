@@ -2,7 +2,7 @@
 - 👀 I’m interested in .NET Core, RabbitMQ, MS SQL Server, Elasticsearch, Angular, SignalR, StencilJS, Dynatrace, OpenTelemetry
 - 🌱 I’m currently learning how to monitor our environments applications better using Dynatrace and OpenTelemetry
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : heini141@outlook.com
+- 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/heinrich-venter/)
 
 <!---
 Heinrichv/Heinrichv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
