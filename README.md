@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Heinrich Venter and im the Backend Team Lead & Developer @ Osiris Trading and from South Africa
+- 👋 Hi, I’m Heinrich Venter, i'm the Backend Development Team Lead @ Osiris Trading. Proud member of Super Group (NYSE)
 - 👀 I’m interested in .NET Core, RabbitMQ, MS SQL Server, Elasticsearch, Angular, SignalR, StencilJS, Dynatrace, OpenTelemetry
 - 🌱 I’m currently learning how to monitor our environments applications better using Dynatrace and OpenTelemetry
 - 💞️ I’m looking to collaborate on ...
