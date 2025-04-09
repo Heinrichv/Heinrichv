@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Heinrich Venter. I'm the Backend Development Team Lead @ Osiris Trading. Proud member of Super Group (NYSE)
-- 👀 I’m interested in .NET Core, RabbitMQ, MS SQL Server, Elasticsearch, Angular, SignalR, StencilJS, Dynatrace, OpenTelemetry
-- 🌱 I’m currently learning how to monitor our environments applications better using Dynatrace and OpenTelemetry
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Heinrich Venter. I'm the Backend Development Team Lead @ Betway Africa. Proud member of Super Group (NYSE)
+- 👀 I’m interested in .NET Core, RabbitMQ, MS SQL, Elasticsearch, Angular, SignalR, StencilJS, OpenTelemetry, AI
+- 🌱 I’m currently learning everything AI including MCP and Semantic Kernel
+- 💞️ I’m looking to collaborate on MCP Server Projects
 - 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/heinrich-venter/)
 
 <!---
